@@ -7,3 +7,11 @@ git commit -m "message de commit"
 git push
 
 git pull la con de ta grand mere, c'est tellement de la merde git
+
+
+# Créer une branche
+git branch nom-de-la-branche
+
+# Basculer sur une branche
+git checkout nom-de-la-branche
+
